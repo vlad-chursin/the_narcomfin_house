@@ -10,9 +10,8 @@
 }
 
 .menuimg{
-    width: 5%;
+    width: 30%;
 }
-
 .mimg{
     padding-left: 20px;
 }
@@ -24,14 +23,14 @@
 .index_item{
     width: 900px;
     background-color: white;
-    margin: 20px auto;
+    margin: 30px auto;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
 
 .index_img{
     width: 100%;
-    /* margin-top: -10px; */
+    margin-top: -10px;
     object-fit: cover;
     height: 250px;
     object-position: 0px -60px;
@@ -39,7 +38,7 @@
 
 .index_h1, .index_p{
     width: 880px;
-    margin-top: 10px auto;
+    margin: 10px 20px;
     background: white;
 }
 

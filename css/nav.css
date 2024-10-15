@@ -3,7 +3,7 @@ nav{
     border: 1px solid rgb(71, 86, 121);  /* border - обводка */
     width: 450px; /* ширина нашего навигационного меню ( списка )*/
     position: fixed;   /* позиция привязана к точке на экране */
-    top: 15px;
+    top: 50px;
     margin-left: 10px;
     padding: 10px;  /* внутренний отступ  */
     box-sizing: border-box;
